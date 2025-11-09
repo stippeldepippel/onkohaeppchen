@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>OnkoHäppchen</title>
+    <description>GPT-generierte onkologische Kurzepisoden mit Petra und Yannick.</description>
+    <language>de-de</language>
+    <itunes:author>Oli</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://dl.dropboxusercontent.com/scl/fi/pwoewpxcjmdsv12hgfnly/logo.png?rlkey=l0xi6v8awt6rgd3c4pvufat7r&dl=0"/>
+    <image><url>https://dl.dropboxusercontent.com/scl/fi/pwoewpxcjmdsv12hgfnly/logo.png?rlkey=l0xi6v8awt6rgd3c4pvufat7r&dl=0</url><title>OnkoHäppchen</title></image>
+    <item>
+      <title>onko_1762727387</title>
+      <description>onko_1762727387</description>
+      <enclosure url="https://dl.dropboxusercontent.com/scl/fi/zeteqwi3rh2ni9fxqjtr1/onko_1762727387.m4a?rlkey=t4mbvvf63f6ssqwj90qib6yg6&dl=0" length="213706" type="audio/mp4" />
+      <pubDate>Sun, 09 Nov 2025 23:38:51 +0100</pubDate>
+      <guid>onko_1762727387.m4a</guid>
+    </item>
+    <item>
+      <title>onko_1762727894</title>
+      <description>onko_1762727894</description>
+      <enclosure url="https://dl.dropboxusercontent.com/scl/fi/2rg4as5q0gqulnq2ynlbq/onko_1762727894.m4a?rlkey=k7eito6827o1nuul3ubgcb4or&dl=0" length="213706" type="audio/mp4" />
+      <pubDate>Sun, 09 Nov 2025 23:39:27 +0100</pubDate>
+      <guid>onko_1762727894.m4a</guid>
+    </item>
+  </channel>
+</rss>

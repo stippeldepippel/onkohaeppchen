@@ -5,16 +5,16 @@
     <title>OnkoHäppchen</title>
     <description>GPT-generierte onkologische Kurzepisoden mit Petra und Yannick.</description>
     <language>de-de</language>
-    <itunes:author>Oli</itunes:author>
+    <itunes:author>Oliebollie</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://dl.dropboxusercontent.com/scl/fi/pwoewpxcjmdsv12hgfnly/logo.png?rlkey=l0xi6v8awt6rgd3c4pvufat7r&amp;dl=0"/>
-    <image><url>https://dl.dropboxusercontent.com/scl/fi/pwoewpxcjmdsv12hgfnly/logo.png?rlkey=l0xi6v8awt6rgd3c4pvufat7r&amp;dl=0</url><title>OnkoHäppchen</title></image>
+    <itunes:image href="/OnkoHäppchen/logo.png"/>
+    <image><url>/OnkoHäppchen/logo.png</url><title>OnkoHäppchen</title></image>
     <item>
-      <title>onko_1762785421</title>
-      <description>onko_1762785421</description>
-      <enclosure url="https://dl.dropboxusercontent.com/scl/fi/8anhgbopg6w50eg47y6g0/onko_1762785421.m4a?rlkey=agqe367dxiu0lfgw8a6vmke5l&amp;dl=0" length="329441" type="audio/mp4" />
-      <pubDate>Mon, 10 Nov 2025 15:37:05 +0100</pubDate>
-      <guid>onko_1762785421.m4a</guid>
+      <title>onko_1762796970</title>
+      <description>onko_1762796970</description>
+      <enclosure url="/OnkoHäppchen/onko_1762796970.m4a" length="331045" type="audio/mp4" />
+      <pubDate>Mon, 10 Nov 2025 18:49:32 +0100</pubDate>
+      <guid>onko_1762796970.m4a</guid>
     </item>
   </channel>
 </rss>

@@ -10,11 +10,18 @@
     <itunes:image href="/OnkoHäppchen/logo.png"/>
     <image><url>/OnkoHäppchen/logo.png</url><title>OnkoHäppchen</title></image>
     <item>
-      <title>onko_1762797593</title>
-      <description>onko_1762797593</description>
-      <enclosure url="/OnkoHäppchen/onko_1762797593.m4a" length="329441" type="audio/mp4" />
-      <pubDate>Mon, 10 Nov 2025 18:59:55 +0100</pubDate>
-      <guid>onko_1762797593.m4a</guid>
+      <title>onko_1762797989</title>
+      <description>onko_1762797989</description>
+      <enclosure url="/OnkoHäppchen/onko_1762797989.m4a" length="329369" type="audio/mp4" />
+      <pubDate>Mon, 10 Nov 2025 19:06:31 +0100</pubDate>
+      <guid>onko_1762797989.m4a</guid>
+    </item>
+    <item>
+      <title>onko_1762797913</title>
+      <description>onko_1762797913</description>
+      <enclosure url="/OnkoHäppchen/onko_1762797913.m4a" length="329369" type="audio/mp4" />
+      <pubDate>Mon, 10 Nov 2025 19:06:32 +0100</pubDate>
+      <guid>onko_1762797913.m4a</guid>
     </item>
   </channel>
 </rss>
